@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrionsBelt730
 - 👀 I’m interested in everything tech and web development. I am also very interested in cyber security.
-- 🌱 I’m currently studying for a degree in IT
+- 🌱 I’m currently studying software development and programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
